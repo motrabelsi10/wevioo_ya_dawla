@@ -1,0 +1,15 @@
+<appDefinition>
+   <appId>wevioo_ya_dawla</appId>
+   <id>wevioo_ya_dawla</id>
+   <version></version>
+   <name>wevioo ya dawla</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
